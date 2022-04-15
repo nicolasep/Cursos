@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios.api.Libreria2", "Servicios.api.Libreria2\Servicios.api.Libreria2.csproj", "{CBD01BC3-6FD0-45EA-8094-519F62DACC14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Servicios.api.Libreria2", "Servicios.api.Libreria2\Servicios.api.Libreria2.csproj", "{CBD01BC3-6FD0-45EA-8094-519F62DACC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios.api.Seguridad", "Servicios.api.Seguridad\Servicios.api.Seguridad.csproj", "{AD187080-0FC8-4CF7-9552-1FCC6A4CD49A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios.api.Getaway", "Servicios.api.Getaway\Servicios.api.Getaway.csproj", "{F2A416F8-793B-40F1-BAF8-5E0A63EF8465}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{CBD01BC3-6FD0-45EA-8094-519F62DACC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBD01BC3-6FD0-45EA-8094-519F62DACC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBD01BC3-6FD0-45EA-8094-519F62DACC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD187080-0FC8-4CF7-9552-1FCC6A4CD49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD187080-0FC8-4CF7-9552-1FCC6A4CD49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD187080-0FC8-4CF7-9552-1FCC6A4CD49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD187080-0FC8-4CF7-9552-1FCC6A4CD49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A416F8-793B-40F1-BAF8-5E0A63EF8465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A416F8-793B-40F1-BAF8-5E0A63EF8465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A416F8-793B-40F1-BAF8-5E0A63EF8465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A416F8-793B-40F1-BAF8-5E0A63EF8465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
